@@ -4,7 +4,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN0Zng2cTBmaWRyNTZtN2FkdTcxcWI2YjBiYjk0b2Qyb2VpOGNzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMrq9FmUgObwogeL06/giphy.gif" width="30px">&nbsp;<strong>***About me***</strong>
 
-<p>I am an undergraduate <strong>Computer Science student at Universidad Nacional de Lanús</strong>. I love learning and building creative, productive, and innovative web projects.</p>
+<p>I am an undergraduate <strong>Computer Science student at Universidad Tecnologica Nacional (UTNFRA) </strong>. I love learning and building creative, productive, and innovative web projects.</p>
 
 <p><strong>I am passionate about Web Development</strong>, with a strong focus on <strong>Front-End</strong>.</p>
 <ul>
