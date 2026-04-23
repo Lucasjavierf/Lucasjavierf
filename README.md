@@ -9,7 +9,7 @@
 <p><strong>I am passionate about Web Development</strong>, with a strong focus on <strong>Front-End</strong>.</p>
 <ul>
   <li>🌱 I’m currently mastering: <strong>React.js, JavaScript, HTML, CSS, Tailwind</strong></li>
-  <li>⚡ I also have basic knowledge of <strong>Node.js</strong> and <strong>MongoDB</strong></li>
+  <li>⚡ I also have basic knowledge of <strong>Node.js</strong>,<strong>MongoDB</strong> and <strong>Python</strong></li>
   <li>👯 I’m looking forward to collaborating on open source projects</li>
   <li>✔ Ask me about anything web-related, I’m happy to help if the ball is in my court! 😉</li>
 </ul>
@@ -21,12 +21,13 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <strong>Outside of tech, I enjoy:</strong>
 
-  🏍️ Riding my motorcycle      🎮 Playing video games      🎵 Listening to music      📺 Watching series      ⚽ Following football
+  🏍️ Riding my motorcycle      🎮 Playing video games      🧉Drink Mate      📺 Watching series      ⚽🔵🟡 CABJ 🇦🇷
 
 
 <p>📫 Reach out to me at: <a href="mailto:fernandezlucasjavier.job@gmail.com">fernandezlucasjavier.job@gmail.com</a></p>
